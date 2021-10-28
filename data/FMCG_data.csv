@@ -1,0 +1,621 @@
+,Observation,Risk
+0,emergency light provided inside enclosure dg internal maintenance,Medium
+1,cable properly laid cable tray,Medium
+2,earthing provided cable tray,Medium
+3,cable tray observed rusted,Medium
+4,earthing provided cable tray,Medium
+5,cable tray heavily overloaded cable properly laid,Medium
+6,emergency light provided electrical room emergency maintenance night shift emergency shutdown,Medium
+7,tag provided cable,Medium
+8,single body earthing provided control panel,Medium
+9,rear side door panel properly closed,Medium
+10,rear side panel could open completely pillar level floor cause hindrance opening maintenance inspection,Medium
+11,single body earthing provided main lt panel,Medium
+12,acrylic sheet provided rear side panel,Medium
+13,unused gland hole observed panel enclosure,Medium
+14,tapped joint observed inside feeder,Medium
+15,danger signage displayed front side panel caution signage displayed,Medium
+16,acrylic sheet provided feeder,Medium
+17,door earthing provided feeder,Medium
+18,cable gland provided incoming outgoing cable,Medium
+19,lug provided cable termination observed rusted,Medium
+20,rear side panel accessible also cardboard box stored behind panel,Medium
+21,rear side panel door closed,Medium
+22,lug used cable termination cable alley,Medium
+23,single body earthing provided changeover box,Medium
+24,incoming outgoing cable tagged,Medium
+25,gland provided incoming outgoing cable,Medium
+26,danger signage marked panel,Medium
+27,acrylic sheet provided changeover panel,Medium
+28,clear space rear side panel observed le meter,Medium
+29,danger signage marked panel warning signage displayed,Medium
+30,single body earthing provided panel,Medium
+31,stopper provided roller servo stabilizer,Medium
+32,body earthing provided panel,Medium
+33,incoming outgoing cable tagged refer image,Medium
+34,danger signage marked panel,Medium
+35,body earthing provided distribution board,Medium
+36,unused gap observed distribution board refer image,Medium
+37,unwanted material stored inside ahu room,Medium
+38,emergency light provided room maintenance shutdown night shift,Medium
+39,body earthing provided changeover panel,Medium
+40,body earthing provided ahu panel,Medium
+41,danger signage affixed panel,Medium
+42,unused opening observed panel,Medium
+43,incoming outgoing cable tagged,Medium
+44,danger signage provided panel,Medium
+45,outgoing cable marked location,Medium
+46,gland provided incoming outgoing cable,Medium
+47,door earthing provided feeder door,Medium
+48,tapped joint observed inside panel,Medium
+49,nut bolt used cable connection observed rusted,Medium
+50,cable properly dressed inside panel,Medium
+51,danger signage affixed panel refer image,Medium
+52,incoming outgoing cable tagged,Medium
+53,material stored front electrical room cause hindrance easy access room,Medium
+54,illumination level inside electrical room observed le,Medium
+55,emergency light provided panel room,Medium
+56,door earthing provided feeder chamber,Medium
+57,tag provided incoming outgoing cable,Medium
+58,unused opening observed panel,Medium
+59,door feeder closed properly,Medium
+60,lug provided cable termination feeder,Medium
+61,outgoing cable connected mccb compressor feeder insulation melted sq mm cable connected breaker,Medium
+62,gasket provided feeder chamber observed damaged,Medium
+63,body earthing provided panel,Medium
+64,cable properly dressed inside panel,Medium
+65,earthing provided cable tray,Medium
+66,single body earthing provided panel,Medium
+67,cable gland provided incoming outgoing cable,Medium
+68,body earthing provided distribution board,Medium
+69,obstruction accessibility observed db,Medium
+70,danger sign marked changeover panel refer image,Medium
+71,unused gland hole observed distribution board,Medium
+72,cable gland provided incoming outgoing cable,Medium
+73,lug provided cable termination,Medium
+74,door earthing provided distribution box,Medium
+75,electrical panel tapped joint observed connection fan,Medium
+76,unused opening observed panel,Medium
+77,tapped joint observed melted,Medium
+78,lube oil leakage observed machine,Medium
+79,tag provided incoming outgoing cable,Medium
+80,single body earthing provided panel,Medium
+81,danger signage observed faded,Medium
+82,door earthing provided feeder door,Medium
+83,lug provided cable termination,Medium
+84,cable gland provided incoming outgoing cable,Medium
+85,nut bolt cable termination observed rusted,Medium
+86,cascaded earthing provided chiller blending panel,Medium
+87,acrylic sheet provided panel,Medium
+88,unused opening observed panel,Medium
+89,door earthing provided panel feeder door refer image,Medium
+90,unused gland hole observed panel,Medium
+91,acrylic sheet provided panel,Medium
+92,single earthing provided storage tank,Medium
+93,cable gland blend transfer pump properly connected defeat ex rating enclosure,Medium
+94,nut bolt lcss lcs switch area tightly secured,Medium
+95,earthing provided panel,Medium
+96,danger signage affixed panel,Medium
+97,earthing conveyor line evident,Medium
+98,earthing lcs switch evident cannot seen outside inspection,Medium
+99,cascaded earthing provided lcs switch,Medium
+100,jumper provided flange,Medium
+101,earthing provided db internally,Medium
+102,earthing provided cable tray,Medium
+103,unused gland hole observed db,Medium
+104,cable laid properly cable tray,Medium
+105,danger signage affixed db,Medium
+106,cable laid properly cable tray,Medium
+107,unwanted material stored inside electrical room,Medium
+108,acrylic sheet provided panel,Medium
+109,cable gland provided properly sealed,Medium
+110,cable gland provided incoming outgoing cable,Medium
+111,lug provided cable termination,Medium
+112,body earthing provided distribution board,Medium
+113,phase outgoing cable insulation observed damaged,Medium
+114,body earthing provided panel,Medium
+115,sharp bend observed cable,Medium
+116,door earthing provided panel,Medium
+117,cable gland provided incoming outgoing cable,Medium
+118,danger signage marked panel,Medium
+119,earth leakage protection provided db outgoing feeder,Medium
+120,body earthing provided db,Medium
+121,door earthing provided db,Medium
+122,unused gap observed db,Medium
+123,cable gland provided incoming outgoing cable,Medium
+124,single body earthing provided panel,Medium
+125,jumper provided flange,Medium
+126,earthing provided lcs switch,Medium
+127,earthing provided cable tray,Medium
+128,jumper provided flange,Medium
+129,display glass surge monitor visible,Medium
+130,panel wrapped polythene,Medium
+131,obstruction accessibility rtu unit,Medium
+132,one smoke detector provided vcb room ht panel,Medium
+133,rubber mat laid rear side panel,Medium
+134,wire connected din rail providing earthing equipment,Medium
+135,rubber mat laid rear side panel,Medium
+136,thermography check phase required feeder excessive heating observed bus bar bus bar sleeve melted,Medium
+137,thread size le nut,Medium
+138,insufficient space rear side panel,Medium
+139,rubber mat cleaned dust observed rubber mat,Medium
+140,rubber mat present,Medium
+141,fall hazard back panel,Medium
+142,lock oti wti panel,Medium
+143,gasket panel door broken,Medium
+144,unused gland hole present panel,Medium
+145,oil leakage observed transformer,Medium
+146,unused gland hole present panel,Medium
+147,alarm observed oti set value actual value,Medium
+148,funnel installed earth pit made transformer,Medium
+149,unused gland hole present panel,Medium
+150,ct placed bus bar inside panel,Medium
+151,insulated rubber mat cleaned dust observed rubber mat,Medium
+152,obstruction accessibility,Medium
+153,cut section made db,Medium
+154,gland used connecting cable inside db,Medium
+155,gland connected db,Medium
+156,rubber mat provided rear side panel,Medium
+157,cable gland used entry cable panel,Medium
+158,rubber mat provided panel,Medium
+159,manual call point emergency hooter provided area,Medium
+160,cable connected properly gland insulation broken,Medium
+161,gland fixed motor terminal box,Medium
+162,rubber mat front db laid,Medium
+163,loose cable gland entered without gland,Medium
+164,gland fixed s metal clad box,Medium
+165,unused gland hole present panel,Medium
+166,handle present door panel,Medium
+167,gland connected panel,Medium
+168,handle operation individual feeder,Medium
+169,unused gland hole present panel,Medium
+170,space front panel panel placed height,Medium
+171,remote operating handle available panel,Medium
+172,unused gland hole present bottom panel,Medium
+173,earthing motor conveyor bottling line could verified,Medium
+174,incomer wire connected outgoing side outgoing wire connected incoming side elcb ldb,Medium
+175,indication individual feeder available,Medium
+176,inspection window cut acrylic sheet available cable alley,Medium
+177,unused open gland hole present panel,Medium
+178,pole rccb installed pole mcb given,Medium
+179,unused gland hole present panel,Medium
+180,bus bar chamber designed bottom panel,Medium
+181,gasket inside panel door worn,Medium
+182,rubber mat provided front panel,Medium
+183,panel design could confirmed desired ip level outdoor installation,Medium
+184,gasket inside panel wornout,Medium
+185,cable colour,Medium
+186,earthing pit identification done neutral body earthing,Medium
+187,gauge working coolant line,Medium
+188,jumper provided flange diesel transfer pipe,Medium
+189,rubber mat present rear side panel,Medium
+190,unused gland hole present panel cable entry,Medium
+191,note book stored inside panel,Medium
+192,obstruction accessibility panel behind,Medium
+193,mcb installed properly panel random cable connected,Medium
+194,obstruction accessibly,Medium
+195,wire mesh broken top panel,Medium
+196,unused gland hole present bottom panel,Medium
+197,gland plate provided main incoming cable,Medium
+198,manual call point sounder provided area,Medium
+199,soft starter single phase preventer used motor pump house,Medium
+200,cable dressed properly electrical equipment inside etp lab,Medium
+201,mounting elcb cable alley,Medium
+202,obstruction accessibility spare starter,Medium
+203,cable properly laid overlapped also loose cable left cable tray,Medium
+204,insulated rubber mat provided battery bank,Medium
+205,ldb obstruction accessibility,Medium
+206,green indicator used main incomer panel,Low
+207,cable tray provided laying cable power cable laid floor,Low
+208,ryb indicating lamp observed non operative,Low
+209,body earthing provided distribution board,Low
+210,panel installed meter height cause trouble accessing panel maintenance inspection,Low
+211,identification marked mcb outgoings,Low
+212,phase light working,Low
+213,ryb indicating lamp observed non operative,Low
+214,house keeping poor dust deposition large body transformer,Low
+215,identification db missing,Low
+216,tag provided incoming outgoing cable,Low
+217,incoming outgoing cable tagged,Low
+218,pvc tape kept inside panel,Low
+219,phase light working,Low
+220,enclosure provided dg set observed rusted,Low
+221,list authorised person displayed entrance electrical room,Low
+222,body earthing provided distribution board,Low
+223,panel identification observed missing,Low
+224,battery clip terminal cap provided,Low
+225,identification provided panel,Low
+226,cable heavily loaded dust,Low
+227,phase light working,Low
+228,enclosure provided dg set observed rusted,Low
+229,r phase light working,Low
+230,terminal cap provided battery,Low
+231,list authorised person displayed entrance panel room,Low
+232,cable dressed left loose inside cable alley,Low
+233,identification provided db,Low
+234,safety chart emergency sop available,Low
+235,identification marked mcb feeder,Low
+236,dust deposition large inside panel,Low
+237,emergency lighting evident inside panel room area,Low
+238,identification provided feeder panel,Low
+239,phase light working,Low
+240,panel body observed rusted,Low
+241,house keeping poor dust deposition large inside panel,Low
+242,identification db missing,Low
+243,incoming outgoing cable tagged,Low
+244,identification provided mcbs,Low
+245,ammeter installed observed non operative,Low
+246,insulated rubber mat dirty,Low
+247,emergency light evident inside transformer area,Low
+248,identification marked mcb feeder,Low
+249,identification marked panel order distinguish panel,Low
+250,identification marked outgoing mcb,Low
+251,enclosure provided dg set observed rusted,Low
+252,dust available inside ups room,Low
+253,identification marked lcs switch,Low
+254,filter provided front cause dust enter inside panel,Low
+255,poor housekeeping observed panel fire pump house,Low
+256,cable dressed left loose inside cable alley,Low
+257,identification provided db,Low
+258,r phase light working,Low
+259,stainless steel ppe box used storing ppe along line side,Low
+260,sharp bended cable observed inside panel,Low
+261,green indicator used main incomer panel,Low
+262,identification provided feeder panel,Low
+263,tag provided incoming outgoing cable,Low
+264,enclosure provided dg set observed rusted,Low
+265,house keeping poor dust deposition large inside panel,Low
+266,door enclosure cannot closed,Low
+267,green indicator used main incomer panel,Low
+268,ammeter installed panel non operative,Low
+269,list authorised people displayed entrance room,Low
+270,battery clip terminal cap provided,Low
+271,safety chart emergency sop available,Low
+272,alarm available ups room installed ahu,Low
+273,poor housekeeping observed room rubber mat heavily loaded dust,Low
+274,tag provided incoming outgoing cable,Low
+275,poor housekeeping observed panel fire pump house,Low
+276,ammonia cylinder kept vertical position,Low
+277,oil level indication turned opaque,Low
+278,identification provided mcbs refer image,Low
+279,phase light working,Low
+280,house keeping poor dust deposition large body transformer,Low
+281,identification marked lcs switch,Low
+282,list authorised people displayed entrance room,Low
+283,identification provided feeder panel,Low
+284,enclosure observed rusted,Low
+285,spare power cable dressed properly inside panel box,Low
+286,cable dressed left loose inside cable alley,Low
+287,phase separation plate provided mcb termination point,Low
+288,ryb indicating lamp observed non operative,Low
+289,list authorised people displayed entrance,Low
+290,house keeping poor dust deposition large inside panel,Low
+291,body earthing provided distribution board,Low
+292,proper color coding followed cable,Low
+293,identification marked outgoing mcb,Low
+294,cable tray provided laying cable power cable laid floor,Low
+295,source identification marked changeover panel,Low
+296,phase light working,Low
+297,cable connection heavily loaded dust,Low
+298,list authorised person displayed entrance room,Low
+299,b phase indicating lamp observed non operative,Low
+300,identification provided breaker,Low
+301,feeder g identified,Low
+302,identification db,Low
+303,sharp bend present main incomer cable,Low
+304,phase light working,Low
+305,pvc tape used distribution board,Low
+306,house keeping poor dust deposition large inside panel,Low
+307,insulated rubber mat dirty,Low
+308,identification provided mcbs,Low
+309,sfu fuse unit used overcurrent protection,Low
+310,list authorised person displayed entrance electrical room,Low
+311,panel identification observed missing,Low
+312,panel identification observed missing,Low
+313,panel body bus bar box observed corroded,Low
+314,panel installed meter height cause trouble accessing panel maintenance inspection,Low
+315,identification provided feeder panel,Low
+316,dust deposition large inside panel,Low
+317,pvc tape kept inside panel,Low
+318,list authorised person displayed entrance panel room,Low
+319,incoming outgoing cable tagged,Low
+320,emergency instruction displayed regional language,Low
+321,identification provided db,Low
+322,list authorised people displayed entrance room,Low
+323,list authorised person displayed entrance electrical room,Low
+324,cable termination heavily loaded dust,Low
+325,oil level indication turned opaque,Low
+326,r phase indicator working,Low
+327,identification provided feeder panel,Low
+328,house keeping poor dust deposition large body transformer,Low
+329,rear side feeder identification provided panel,Low
+330,r phase indicator working,Low
+331,house keeping poor dust deposition large inside panel,Low
+332,identification provided db,Low
+333,insulated rubber mat dirty,Low
+334,body panel observed rusted,Low
+335,identification marked outgoing mcb,Low
+336,phase light working,Low
+337,identification marked outgoing mcb,Low
+338,enclosure provided dg set observed rusted,Low
+339,house keeping poor dust deposition large inside panel,Low
+340,alarm available ups room installed ahu,Low
+341,identification provided breaker,Low
+342,identification provided mcbs,Low
+343,ammeter installed observed non operative,Low
+344,safety chart emergency sop available,Low
+345,cable tray provided laying cable power cable laid floor,Low
+346,identification marked lcs switch,Low
+347,filter provided front cause dust enter inside panel,Low
+348,ammonia cylinder kept vertical position,Low
+349,insulated rubber mat dirty,Low
+350,control circuit diagram panel displayed,Low
+351,cable tray provided laying cable power cable laid floor,Low
+352,cable connection heavily loaded dust,Low
+353,ammeter installed observed non operative,Low
+354,house keeping poor dust deposition large inside panel,Low
+355,indicating lamp observed inoperative,Low
+356,identification db,Low
+357,house keeping poor dust deposition large inside panel,Low
+358,identification provided db,Low
+359,tag provided incoming outgoing cable,Low
+360,indication lamp provided panel non operative,Low
+361,door enclosure cannot closed,Low
+362,r phase light working,Low
+363,safety chart emergency sop available,Low
+364,green indicator used main incomer panel,Low
+365,sharp bended cable observed inside panel,Low
+366,insulated rubber mat dirty,Low
+367,dust deposition large inside panel,Low
+368,list authorised people displayed entrance,Low
+369,emergency instruction displayed regional language,Low
+370,house keeping poor dust deposition large inside panel,Low
+371,ventilation system provided room enough deal heat dissipated electrical system ventilation cooling fan servo transformer electrical panel exhaust fan whole room water cooler electrician provided,Low
+372,identification provided push button operation,Low
+373,dust available inside ups room,Low
+374,tag provided incoming outgoing cable,Low
+375,identification provided feeder panel,Low
+376,identification provided mcbs refer image,Low
+377,dust available inside ups room,Low
+378,identification provided mcbs refer image,Low
+379,house keeping poor dust deposition large inside panel,Low
+380,identification db missing,Low
+381,house keeping poor dust deposition large inside panel,Low
+382,house keeping poor dust deposition large inside panel,Low
+383,house keeping poor dust deposition large inside panel,Low
+384,cable connection heavily loaded dust,Low
+385,dust deposition large inside panel,Low
+386,door enclosure cannot closed,Low
+387,cable connection heavily loaded dust,Low
+388,identification provided mcbs,Low
+389,r phase light working,Low
+390,phase separation plate provided mcb termination point,Low
+391,emergency instruction displayed regional language,Low
+392,r phase indicator working,Low
+393,b phase indicating lamp observed non operative,Low
+394,control circuit diagram panel displayed,Low
+395,identification marked outgoing mcb,Low
+396,indication provided feeder panel,Low
+397,ammonia cylinder kept vertical position,Low
+398,house keeping poor dust deposition large inside panel,Low
+399,list authorised people displayed entrance,Low
+400,poor housekeeping observed room rubber mat heavily loaded dust,Low
+401,house keeping poor dust deposition large inside panel,Low
+402,r phase light working,Low
+403,phase light working,Low
+404,indication lamp provided panel non operative,Low
+405,list authorised people displayed entrance,Low
+406,terminal cap provided dg excitation battery,Low
+407,insulated rubber mat dirty,Low
+408,proper color coding followed cable,Low
+409,house keeping poor dust deposition large inside panel,Low
+410,identification marked mcb outgoings,Low
+411,oil level indication turned opaque,Low
+412,preventive maintenance schedule potential transformer available conveyed cleaning tightening potential transformer done shutdown,High
+413,shock treatment chart displayed electrical room,High
+414,body ahu panel corroded,High
+415,equipotential bonding provided transformer,High
+416,surge protection device installed panel,High
+417,bus bar chamber designed bottom many panel,High
+418,cover plate db observed missing,High
+419,panel door broken,High
+420,unused cable opening observed lcs switch,High
+421,water pipeline passed panel room abnormal condition water leak flange endanger mcc panel installed near since panel enclosure proper backside plate busbar missing,High
+422,cable exit point compressor panel room hall spirit storage tank sealed,High
+423,oil cup silica gel breather transformer missing,High
+424,seating arrangement electrician close proximity panel busbar changeover,High
+425,testing breaker done installation,High
+426,body earthing termination strip observed rusted,High
+427,door earthing provided,High
+428,sld displayed room upto date,High
+429,preventive maintenance schedule isolator air disconnecting switch available conveyed cleaning tightening insulator done shutdown,High
+430,unused opening observed lcs switch,High
+431,body ahu panel corroded,High
+432,non standard tapped joint observed near db,High
+433,cable entry exit enclosure sealed gland plate observed missing,High
+434,electrical panel door found open,High
+435,phase separator present bus bar,High
+436,shock treatment chart displayed electrical room,High
+437,earthing provided many place cable tray,High
+438,earthing provided cable tray,High
+439,door earthing provided,High
+440,following motor installed flameproof motor placed filling panel sealer machine motor sealing machine recycle motor,High
+441,phase separator bus bar mccb,High
+442,phenolic hylam sheet provided panel,High
+443,body lightning distribution panel corroded,High
+444,electrical insulation mat laid front db,High
+445,sfu still use instead mccbs,High
+446,rubber mat laid front panel,High
+447,sfu still use instead mccbs,High
+448,phenolic hylam sheet provided panel,High
+449,arc flash study carried ht panel arc flash study carried ppe level selected per arc flash study arc flash boundary sticker displayed panel,High
+450,phenolic hylam sheet provided panel,High
+451,oil cup silica gel breather transformer missing,High
+452,stack height dg set observed le required current stack height meter maximum height nearby building near meter,High
+453,buchholz relay indicator visible enclosed glass,High
+454,body earthing termination strip observed rusted,High
+455,filling machine panel installed near blend filling machine line flameproof come inside hac zone,High
+456,seating arrangement electrician close proximity panel busbar changeover,High
+457,observed cable wire open joint,High
+458,earthing provided cable tray,High
+459,phenolic hylam sheet provided panel,High
+460,following electrical apparatus flameproof blend transfer motor cable gland zeta plus filtration system near vat storage tank,High
+461,earthing provided cable tray,High
+462,oil cup silica gel breather transformer missing,High
+463,earthing provided cable tray,High
+464,earthing provided power box,High
+465,lightning protection rod installed place designing installation record available verify efficacy installation distance two arrestors meter,High
+466,termination box blend transfer motor tank bolted kept open,High
+467,sld displayed room upto date,High
+468,stack height dg set proper,High
+469,rubber mat laid rear side panel refer image,High
+470,electrical insulation mat laid front changeover panel observed old damaged,High
+471,unused opening observed zeta plus filtration system derates flameproof rating machine,High
+472,water seepage room terrace,High
+473,electrical insulation mat laid front panel,High
+474,earthing provided dg day tank,High
+475,rubber mat laid rear side panel refer image,High
+476,cabinet door earthing isolator panel provided,High
+477,earthing connected s metal clad box,High
+478,jumper provided flange blending hall tank area,High
+479,following electrical apparatus flameproof blend transfer motor cable gland zeta plus filtration system near vat storage tank,High
+480,cabinet door earthing isolator panel provided,High
+481,earthing provided dg day tank,High
+482,rtcc panel earthed door earthing broken,High
+483,electrical insulation mat laid front panel,High
+484,phenolic hylam sheet provided panel,High
+485,earth leakage protection provided db subsequent feeder,High
+486,door earthing provided,High
+487,top bottom cover plate observed missing panel,High
+488,sugar unloading handling area sugar dust airborne dust also present room,High
+489,top bottom cover plate observed missing panel,High
+490,deflagration vent storage equipment like silo designed,High
+491,earth strip connected earth point transformer,High
+492,door earthing provided,High
+493,stack height dg set observed le required current stack height meter maximum height nearby building near meter,High
+494,door earth broken,High
+495,electrical insulation mat laid panel,High
+496,equipotential bonding provided transformer,High
+497,door earth broken,High
+498,earth strip corroded,High
+499,voltmeter working,High
+500,nut bolt neutral earthing strip observed corroded,High
+501,phenolic hylam sheet provided panel,High
+502,preventive maintenance schedule potential transformer available conveyed cleaning tightening potential transformer done shutdown,High
+503,flame proof rating lighting fixture detector installed area known data shown audit,High
+504,door earth provided,High
+505,elcb installed ldb,High
+506,sfu use instead mccbs,High
+507,door earthing provided,High
+508,preventive maintenance schedule isolator air disconnecting switch available conveyed cleaning tightening insulator done shutdown,High
+509,rubber mat laid front db,High
+510,cascaded earthing provided lcs installed near bv tank,High
+511,earth strip corroded,High
+512,voltmeter working,High
+513,preventive maintenance checklist mccb available,High
+514,phenolic hylam sheet provided panel,High
+515,phase separator present bus bar,High
+516,tag placed inside panel joint cable inside panel feeder,High
+517,earth leakage protection provided subsequent feeder,High
+518,earthing provided diesel day tank,High
+519,door earthing provided,High
+520,pebble laid inside switchyard insufficient,High
+521,jumper provided flange blending hall tank area,High
+522,equipotential bonding provided transformer,High
+523,door earthing provided,High
+524,rubber mat laid front panel,High
+525,phenolic hylam sheet provided panel,High
+526,preventive maintenance schedule bus bar bus bar cover found open,High
+527,electrical insulation mat laid panel,High
+528,oil level indicator conservator working indicator read empty oil,High
+529,phenolic hylam sheet provided panel,High
+530,preventive maintenance schedule potential transformer available conveyed cleaning tightening potential transformer done shutdown,High
+531,earthing provided cable tray,High
+532,silica gel inside breather dis charged turned pink,High
+533,rubber mat laid rear side panel refer image,High
+534,phenolic hylam sheet provided inside panel,High
+535,observed cable wire open joint,High
+536,panel door broken,High
+537,termination box blend transfer motor tank bolted kept open,High
+538,unused opening observed lcs switch,High
+539,door earthing provided,High
+540,phenolic hylam sheet provided panel feeder,High
+541,earth leakage protection provided subsequent feeder,High
+542,filling machine panel installed near blend filling machine line flameproof come inside hac zone,High
+543,buchholz relay indicator visible enclosed glass,High
+544,phenolic hylam sheet provided panel,High
+545,earth leakage protection provided subsequent feeder,High
+546,observed cable wire open joint,High
+547,flame proof rating lighting fixture detector installed area known data shown audit,High
+548,jumper provided flange pipeline,High
+549,phase separator present bus bar,High
+550,cabinet door earthing isolator panel provided,High
+551,phenolic hylam sheet provided panel,High
+552,earth leakage protection provided subsequent outgoing feeder,High
+553,preventive maintenance schedule current transformer available specific maintenance schedule equipment followed cleaning tightening insulator done shutdown,High
+554,deflagration vent storage equipment like silo designed,High
+555,door earth broken,High
+556,preventive maintenance schedule potential transformer available conveyed cleaning tightening potential transformer done shutdown,High
+557,following electrical apparatus flameproof blend transfer motor cable gland zeta plus filtration system near vat storage tank,High
+558,arc flash study carried ht panel arc flash study carried ppe level selected per arc flash study arc flash boundary sticker displayed panel,High
+559,cable exit point compressor panel room hall spirit storage tank sealed,High
+560,sfu still use instead mccbs,High
+561,electrical insulation mat laid front changeover panel observed old damaged,High
+562,sugar unloading handling area sugar dust airborne dust also present room,High
+563,buchholz relay indicator visible enclosed glass,High
+564,door earthing broken,High
+565,earthing provided cable tray,High
+566,power quality study conducted site,High
+567,earth leakage protection provided subsequent feeder,High
+568,termination box blend transfer motor tank bolted kept open,High
+569,body ahu panel corroded,High
+570,earthing provided power box,High
+571,earthing provided cable tray,High
+572,door earthing provided,High
+573,circuit breaker provided incoming supply line lt supply directly fed busbar,High
+574,incident energy calculation done site shall required appropriate ppe selection arc flash sticker displayed panel,High
+575,phase separator present bus bar,High
+576,arc flash study carried ppe level selected per arc flash study arc flash boundary sticker displayed panel,High
+577,back cover plate busbar chamber panel observed missing,High
+578,water seepage room terrace,High
+579,door earthing connected,High
+580,sfu still use instead mccbs,High
+581,electrical panel door found open,High
+582,phenolic hylam sheet provided panel,High
+583,sfu still use instead mccbs,High
+584,jumper provided flange blending hall tank area,High
+585,panel body earthed single side,High
+586,top cover plate observed missing panel,High
+587,cardboard piece paced inside bus bar chamber main mpeb supply incomer feeder,High
+588,silica gel inside breather dis charged turned pink,High
+589,oil level indicator conservator working indicator read empty oil,High
+590,electrical insulation mat laid front changeover panel observed old damaged,High
+591,phase separator present bus bar,High
+592,arc flash study carried ppe level selected per arc flash study arc flash boundary sticker displayed panel,High
+593,observed cable entry point sealed,High
+594,rtcc panel earthed door earthing broken,High
+595,electrical insulation mat laid front panel,High
+596,earthing provided cable tray,High
+597,voltmeter working,High
+598,earthing provided power box,High
+599,phenolic hylam sheet provided panel,High
+600,electrical insulation mat laid front db,High
+601,maintenance dg set done properly rust observed alternator dust lube oil leakage also observed inside acoustic enclosure,High
+602,earth leakage protection provided subsequent outgoing feeder,High
+603,smoke detection system working area,High
+604,rubber mat laid front panel,High
+605,equipotential bonding provided transformer,High
+606,electrical insulation mat laid front db,High
+607,door earthing provided,High
+608,fo earth strip corroded,High
+609,cardboard piece paced inside bus bar chamber main mpeb supply incomer feeder,High
+610,crocodile clip used discharge static charge corroded,High
+611,phenolic hylam sheet provided panel,High
+612,tag placed inside panel joint cable inside panel feeder,High
+613,phenolic hylam sheet provided panel,High
+614,top cover plate provided panel,High
+615,water seepage room terrace,High
+616,emergency stop button panel,High
+617,door earthing provided,High
+618,incident energy calculation done site shall required appropriate ppe selection arc flash sticker displayed panel,High
+619,incident energy calculation done site shall required appropriate ppe selection arc flash sticker displayed panel,'High'

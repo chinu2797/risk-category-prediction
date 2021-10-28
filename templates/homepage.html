@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% block content %}
+<p></p>
+    <div class="container-sm fadeIn">
+        <label><h3>Select Industry</h3></label>
+        <div class="row">
+            <div class="btn-group">
+                <a href="{% url 'application:predict' %}?category=mines" class="btn btn-lg btn-primary mt-3 btn-block">Mines</a>
+                <a href="{% url 'application:predict' %}?category=fmcg" class="btn btn-lg btn-primary text-center mt-3 btn-block">FMCG</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="btn-group">
+                <a href="{% url 'application:predict' %}?category=pharma" class="btn btn-lg btn-primary mt-3 btn-block">Pharmaceutical</a>
+                <a href="{% url 'application:predict' %}?category=retail" class="btn btn-lg btn-primary text-center mt-3 btn-block">Retail</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="btn-group">
+                <a href="{% url 'application:predict' %}?category=automotive" class="btn btn-lg btn-primary mt-3 btn-block">Automotive</a>
+                <a href="{% url 'application:predict' %}?category=chemical" class="btn btn-lg btn-primary text-center mt-3 btn-block">Chemical</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="btn-group">
+                <a href="{% url 'application:predict' %}?category=engineering_and_consulting" class="btn btn-lg btn-primary mt-3 btn-block">Engineering and Consulting</a>
+                <a href="{% url 'application:predict' %}?category=healthcare_and_hospital" class="btn btn-lg btn-primary text-center mt-3 btn-block">Healthcare and Hospital</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="btn-group">
+                <a href="{% url 'application:predict' %}?category=manufacturing" class="btn btn-lg btn-primary text-center mt-3 btn-block">Manufacturing</a>
+                <a href="{% url 'application:predict' %}?category=energy_oil_and_gas" class="btn btn-lg btn-primary mt-3 btn-block">Energy Oil and Gas</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="btn-group">
+                <a href="{% url 'application:predict' %}?category=it_comm_dc" class="btn btn-lg btn-primary mt-3 btn-block">IT/COMM and DC</a>
+                <a href="{% url 'application:predict' %}?category=cement" class="btn btn-lg btn-primary mt-3 btn-block">Cement</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="btn-group">
+                <a href="{% url 'application:predict' %}?category=infra" class="btn btn-lg btn-primary mt-3 btn-block">Infrastructure</a>
+            </div>
+        </div>
+        
+        
+    </div>
+{% endblock %}

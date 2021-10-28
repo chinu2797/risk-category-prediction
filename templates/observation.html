@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block content %}
+    <div class="container-sm fadeIn">
+        <p>
+            <label for="observation" class="form-label"><h3>Industry Selected: {{category}}</h3></label>
+        </p>
+        <form method="post" action="{% url 'apis:predict' %}?category={{ category }}" class="m-1 p-1" id="model-form">
+            {% csrf_token %}
+            <div class="row">
+                <div class="col">
+                    <div class="mb-3 mt-4">
+                        <label for="observation" class="form-label"><h3>Observation</h3></label>
+                        <h3><input name="observation" id="observation" class="form-control" type="text" value=""></h3>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="d-grid">
+                <div class="btn-group">
+                    <button class="btn btn-lg btn-danger mt-3 btn-block" type="reset" name="reset">Reset</button>
+                    <button class="btn btn-lg btn-primary mt-3 btn-block" type="button" onclick="history.back()">Back</button>
+                </div>
+                <button class="btn btn-lg btn-success mt-3 btn-block" type="submit" name="save_only">Submit</button>
+            </div>
+        </form>
+    </div>
+{% endblock %}
