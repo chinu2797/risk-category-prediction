@@ -72,7 +72,7 @@ six==1.15.0
 smart-open==5.2.1
 soupsieve==2.2.1
 sqlparse==0.4.2
-tensorflow==2.6.0
+tensorflow-cpu==2.6.0
 tensorflow-estimator==2.6.0
 termcolor==1.1.0
 terminado==0.10.1
