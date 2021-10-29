@@ -13,7 +13,7 @@ from server.settings import BASE_DIR
 def predict(request):
     print(request, request.POST)
     category=request.GET.get('category')
-    observation = request.POST.get('observation')
+    observation = request.GET.get('observation')
     if observation!="":
         if category=='mines':
             data_file_path=Path(BASE_DIR) / Path('data/mines_data.csv')
