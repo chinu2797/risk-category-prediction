@@ -6,6 +6,7 @@ import re
 import pandas as pd
 import re
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 from nltk.stem.porter import PorterStemmer 
 from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.linear_model import SGDClassifier
