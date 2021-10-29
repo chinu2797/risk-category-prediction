@@ -1,3 +1,6 @@
+import matplotlib
+matplotlib.use('Agg')  # Must be done before importing pyplot
+import matplotlib.pyplot as plt
 import pandas as pd
 import re
 import pandas as pd
