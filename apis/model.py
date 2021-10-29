@@ -5,6 +5,7 @@ import pandas as pd
 import re
 import pandas as pd
 import re
+import nltk
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 from nltk.stem.porter import PorterStemmer 
