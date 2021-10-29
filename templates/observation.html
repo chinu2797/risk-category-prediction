@@ -4,7 +4,7 @@
         <p>
             <label for="observation" class="form-label"><h3>Industry Selected: {{category}}</h3></label>
         </p>
-        <form method="post" action="{% url 'apis:predict' %}?category={{ category }}" class="m-1 p-1" id="model-form">
+        <form method="get" action="{% url 'apis:predict' %}?category={{ category }}" class="m-1 p-1" id="model-form">
             {% csrf_token %}
             <div class="row">
                 <div class="col">
