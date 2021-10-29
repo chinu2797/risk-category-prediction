@@ -6,7 +6,6 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer 
 from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.linear_model import SGDClassifier
-import PySimpleGUI as sg
 from tensorflow.keras.preprocessing.text import Tokenizer
 from sklearn.feature_extraction.text import CountVectorizer
 
