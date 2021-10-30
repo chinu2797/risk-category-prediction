@@ -8,6 +8,8 @@ import re
 import nltk
 from nltk.corpus import stopwords
 nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('porter')
 from nltk.stem.porter import PorterStemmer 
 from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.linear_model import SGDClassifier
