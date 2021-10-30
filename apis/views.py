@@ -47,9 +47,9 @@ def predict(request):
         return render(request, 'blank_observation.html')
 
 def retrain(request):
-    observation = request.GET.get('observation')
-    prediction = request.GET.get('prediction')
-    category = request.GET.get('category')
+    observation = request.POST.get('observation')
+    prediction = request.POST.get('prediction')
+    category = request.POST.get('category')
     if category=="mines":
         data_file_path=Path(BASE_DIR) / Path('data/mines_data.csv')
         df=pd.read_csv(data_file_path)
