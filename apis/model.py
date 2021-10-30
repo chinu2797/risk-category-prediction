@@ -1,11 +1,16 @@
+import matplotlib
+matplotlib.use('Agg')  # Must be done before importing pyplot
+import matplotlib.pyplot as plt
+import pandas as pd
 import re
 import pandas as pd
 import re
+import nltk
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 from nltk.stem.porter import PorterStemmer 
 from nltk.stem.wordnet import WordNetLemmatizer
 from sklearn.linear_model import SGDClassifier
-import PySimpleGUI as sg
 from tensorflow.keras.preprocessing.text import Tokenizer
 from sklearn.feature_extraction.text import CountVectorizer
 
