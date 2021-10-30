@@ -11,34 +11,39 @@ from server.settings import BASE_DIR
 @api_view(['GET','POST'])
 # Create your views here.
 def predict(request):
-    print(request, request.POST)
-    category=request.GET.get('category')
-    observation = request.GET.get('observation')
-    if observation!="":
-        if category=='mines':
-            data_file_path=Path(BASE_DIR) / Path('data/mines_data.csv')
-            df=pd.read_csv(data_file_path)
-            df=df[['Observation','Risk']]
-            with open("data/sgd_mines.pickle", 'rb') as f:
-                sgd = pickle.load(f)
-            prediction = model.predict(observation,df,sgd)
-            context = {"category": category, 'label': "Risk","prediction": prediction}
-            context['observation']=observation
-            context['prediction']=prediction
-            return render(request, 'risk_and_retrain.html',context)
+    try:
+        print(request, request.GET)
+        category=request.GET.get('category')
+        observation = request.GET.get('observation')
+        if observation:
+            if category=='mines':
+                data_file_path=Path(BASE_DIR) / Path('data/mines_data.csv')
+                print(data_file_path)
+                df=pd.read_csv(data_file_path)
+                df=df[['Observation','Risk']]
+                with open("data/sgd_mines.pickle", 'rb') as f:
+                    sgd = pickle.load(f)
+                prediction = model.predict(observation,df,sgd)
+                context = {"category": category, 'label': "Risk","prediction": prediction}
+                context['observation']=observation
+                context['prediction']=prediction
+                return render(request, 'risk_and_retrain.html',context)
 
-        elif category=='fmcg':
-            data_file_path=Path(BASE_DIR) / Path('data/fmcg_data.csv')
-            df=pd.read_csv(data_file_path)
-            df=df[['Observation','Risk']]
-            with open("data/sgd_fmcg.pickle", 'rb') as f:
-                sgd = pickle.load(f)
-            prediction = model.predict(observation,df,sgd)
-            context = {"category": category, 'label': "Risk","prediction": prediction}
-            context['observation']=observation
-            context['prediction']=prediction
-            return render(request, 'risk_and_retrain.html',context)
-    else:
+            elif category=='fmcg':
+                data_file_path=Path(BASE_DIR) / Path('data/fmcg_data.csv')
+                df=pd.read_csv(data_file_path)
+                df=df[['Observation','Risk']]
+                with open("data/sgd_fmcg.pickle", 'rb') as f:
+                    sgd = pickle.load(f)
+                prediction = model.predict(observation,df,sgd)
+                context = {"category": category, 'label': "Risk","prediction": prediction}
+                context['observation']=observation
+                context['prediction']=prediction
+                return render(request, 'risk_and_retrain.html',context)
+        else:
+            return render(request, 'blank_observation.html')
+    except Exception as  e:
+        print(e)
         return render(request, 'blank_observation.html')
 
 def retrain(request):
