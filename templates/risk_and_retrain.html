@@ -2,7 +2,7 @@
 {% block content %}
     <div class="container-sm fadeIn">
         <p><h1>{{label}} Category: {{prediction}}</h1></p>
-        <form method="get" action="{% url 'apis:retrain' %}?observation={{ observation }}&prediction={{ prediction }}&category={{ category }}" class="m-1 p-1" id="model-form">
+        <form method="post" action="{% url 'apis:retrain' %}?observation={{ observation }}&prediction={{ prediction }}&category={{ category }}" class="m-1 p-1" id="model-form">
         {% csrf_token %}
             <label for="observation" class="form-label">If the above prediction is correct select yes else select the correct risk category.</label>
             <div class="d-grid">
