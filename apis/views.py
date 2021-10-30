@@ -12,9 +12,9 @@ from server.settings import BASE_DIR
 # Create your views here.
 def predict(request):
     try:
-        print(request, request.GET)
+        print(request.POST, request.GET)
         category=request.GET.get('category')
-        observation = request.GET.get('observation')
+        observation = request.POST.get('observation')
         if observation:
             if category=='mines':
                 data_file_path=Path(BASE_DIR) / Path('data/mines_data.csv')
