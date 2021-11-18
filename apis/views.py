@@ -15,7 +15,7 @@ def predict(request):
         print(request.POST, request.GET)
         category=request.GET.get('category')
         observation = request.POST.get('observation')
-        if observation!="":
+        if observation:
             if category=='mines':
                 data_file_path=Path(BASE_DIR) / Path('data/mines_data.csv')
                 print(data_file_path)
