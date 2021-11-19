@@ -29,7 +29,7 @@ def predict(request):
                 context['prediction']=prediction
                 return render(request, 'risk_and_retrain.html',context)
             elif category=='fmcg':
-                data_file_path=Path(BASE_DIR) / Path('data/fmcg_data.csv')
+                data_file_path=Path(BASE_DIR) / Path('data/FMCG_data.csv')
                 df=pd.read_csv(data_file_path)
                 df=df[['Observation','Risk']]
                 with open("data/sgd_fmcg.pickle", 'rb') as f:
