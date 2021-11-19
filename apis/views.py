@@ -12,7 +12,7 @@ from server.settings import BASE_DIR
 # Create your views here.
 def predict(request):
     try:
-        print(request.POST, request.GET)
+        print(request, request.GET)
         category=request.GET.get('category')
         observation = request.POST.get('observation')
         if observation:
@@ -28,7 +28,6 @@ def predict(request):
                 context['observation']=observation
                 context['prediction']=prediction
                 return render(request, 'risk_and_retrain.html',context)
-
             elif category=='fmcg':
                 data_file_path=Path(BASE_DIR) / Path('data/fmcg_data.csv')
                 df=pd.read_csv(data_file_path)
